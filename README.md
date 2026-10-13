@@ -1,5 +1,5 @@
 # HEALIX
-A Dataset and Resources for Identifying Patient Health Literacy Information from Clinical Notes
+A Dataset and Resources for Identifying Patient Health Literacy Information from Clinical Notes. This dataset contains 589 clinical notes sourced from the MIMIC-III across 9 note types, annotated with three health literacy labels: low, normal, and high. The dataset is available as a json file. 
 
 # Requirements
 Python 3.x
